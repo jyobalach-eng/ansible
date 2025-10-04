@@ -11,5 +11,5 @@
     - name: start nginx
       yum:
         name: nginx
-        state: started
+        state: present
         enabled: yes
