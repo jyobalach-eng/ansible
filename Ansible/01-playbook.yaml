@@ -12,4 +12,3 @@
       yum:
         name: nginx
         state: present
-        enabled: yes
